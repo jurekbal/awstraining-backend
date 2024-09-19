@@ -43,6 +43,7 @@ ${jsonencode(
     "Action": "translate:TranslateText",
     "Resource": "*"
     },
+    {
     "Effect": "Allow",
     "Action": "comprehend:DetectSentiment",
     "Resource": "*"
